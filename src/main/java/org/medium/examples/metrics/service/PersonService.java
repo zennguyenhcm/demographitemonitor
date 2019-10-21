@@ -1,8 +1,8 @@
-package org.medium.examples.memcached.service;
+package org.medium.examples.metrics.service;
 
 import java.util.Objects;
-import org.medium.examples.memcached.entity.Person;
-import org.medium.examples.memcached.repository.PersonRepository;
+import org.medium.examples.metrics.entity.Person;
+import org.medium.examples.metrics.repository.PersonRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

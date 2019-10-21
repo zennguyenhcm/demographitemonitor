@@ -1,4 +1,4 @@
-package org.medium.examples.memcached.entity;
+package org.medium.examples.metrics.entity;
 
 import java.io.Serializable;
 import javax.persistence.Entity;

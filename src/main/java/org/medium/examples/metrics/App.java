@@ -1,4 +1,4 @@
-package org.medium.examples.memcached;
+package org.medium.examples.metrics;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

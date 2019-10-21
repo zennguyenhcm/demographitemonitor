@@ -1,6 +1,6 @@
-package org.medium.examples.memcached.repository;
+package org.medium.examples.metrics.repository;
 
-import org.medium.examples.memcached.entity.Person;
+import org.medium.examples.metrics.entity.Person;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
