@@ -1,0 +1,2 @@
+# demographitemontor
+stack: graphite + grafana
